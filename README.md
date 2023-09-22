@@ -34,4 +34,3 @@ Apaixonado por tecnologia e por mudar a vida das pessoas através da inovação 
 - [ROSIWAL](https://rosiwal.hdatahost.com/)<br/>
 - [BEFLOR](https://beflor.hdatahost.com/)<br/>
 - [MALAMADRE](https://malamadre.hdatahost.com/)<br/>
-- [HDATAHOST](https://hdatahost.com/)<br/>
