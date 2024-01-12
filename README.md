@@ -31,7 +31,6 @@ Apaixonado por tecnologia e por mudar a vida das pessoas através da inovação 
 
 ### Projectos Desenvolvidos:
 - [GEODE](https://https://geode.ao/)<br/>
-- [LUCIASTANISLAS]((https://luciastanislas.com/))<br/>
 - [MEDICLOG](https://mediclog.com.br/)<br/>
 - [CLONE TWITTER](https://twitter-ui-flax.vercel.app/)<br/>
 - [JOGO DE MEMÓRIA](https://jogo-memoria-wine.vercel.app/)<br/>
