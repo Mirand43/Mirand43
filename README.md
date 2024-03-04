@@ -30,7 +30,7 @@
 Apaixonado por tecnologia e por mudar a vida das pessoas através da inovação tecnológica.
 
 ### Projectos Desenvolvidos:
-- [GEODE](https://https://geode.ao/)<br/>
+- [GEODE](https://geode.ao/)<br/>
 - [HDATAHOST](https://hdatahost.com/)<br/>
 - [CLONE TWITTER](https://twitter-ui-flax.vercel.app/)<br/>
 - [JOGO DE MEMÓRIA](https://jogo-memoria-wine.vercel.app/)<br/>
