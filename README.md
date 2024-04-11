@@ -34,3 +34,4 @@ Apaixonado por tecnologia e por mudar a vida das pessoas através da inovação 
 - [HDATAHOST](https://hdatahost.com/)<br/>
 - [JOGO DE MEMÓRIA](https://jogo-memoria-wine.vercel.app/)<br/>
 - [AUGANTSTORE](https://augantstore.ao/)<br/>
+- [MEDICLOG](https://mediclog.com.br/)<br/>
