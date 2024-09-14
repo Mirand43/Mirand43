@@ -31,9 +31,7 @@ Apaixonado por tecnologia e por mudar a vida das pessoas através da inovação 
 
 ### Projectos Desenvolvidos:
 - [GEODE](https://geode.ao/)<br/>
-- [HDATAHOST](https://hdatahost.com/)<br/>
 - [JOGO DE MEMÓRIA](https://jogo-memoria-wine.vercel.app/)<br/>
-- [AUGANTSTORE](https://augantstore.ao/)<br/>
 - [MEDICLOG](https://mediclog.com.br/)<br/>
 - [WTMLuanda](https://wtm-luanda.vercel.app/)<br/>
 - [DESAFIO EPICGAMES](https://desafio-epicgames-gray.vercel.app/leadpage/home)<br/>
