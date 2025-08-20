@@ -30,6 +30,7 @@
 Apaixonado por tecnologia e por mudar a vida das pessoas através da inovação tecnológica.
 
 ### Projectos Desenvolvidos:
+- [ABOUT ME](https://blog-antonio-quintas.vercel.app/)<br/>
 - [GEODE](https://geode.ao/)<br/>
 - [JOGO DE MEMÓRIA](https://jogo-memoria-wine.vercel.app/)<br/>
 - [KULANDELA NGINGA](https://project-kulandela-nginga.vercel.app/)<br/>
@@ -38,7 +39,6 @@ Apaixonado por tecnologia e por mudar a vida das pessoas através da inovação 
 - [SBDE](https://sbde.tech/)<br/>
 - [CODANG](https://codang.co.ao/)<br/>
 - [INNOSPHERE](https://innosphere-alpha.vercel.app/)<br/>
-
 
 ### Contactos:
 - E-mail: antoniomq99@gmail.com
