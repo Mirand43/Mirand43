@@ -39,6 +39,7 @@ Apaixonado por tecnologia e por mudar a vida das pessoas através da inovação 
 - [SBDE](https://sbde.tech/)<br/>
 - [CODANG](https://codang.co.ao/)<br/>
 - [INNOSPHERE](https://innosphere-alpha.vercel.app/)<br/>
+- [DELFIKITANDEIRA](https://delfikitandeira.vercel.app/)<br/>
 
 ### Contactos:
 - E-mail: antoniomq99@gmail.com
