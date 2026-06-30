@@ -196,16 +196,6 @@ Currently focusing on:
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Mirand43&theme=tokyonight&no-frame=true&column=7"/>
-
-</p>
-
----
-
 # 📫 Contact
 
 📍 Luanda, Angola
