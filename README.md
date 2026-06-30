@@ -1,46 +1,117 @@
-## Olá! Eu sou o António Miranda Quintas 🖐️
+# Hi there 👋 I'm António Miranda Quintas
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoniomirandaquintas/)
+### 🚀 Software Engineer | Backend Developer | Cloud Enthusiast
+
+I'm a software developer from **Angola 🇦🇴** passionate about building scalable applications, APIs and digital solutions that create real impact.
+
+Currently I'm focused on:
+
+- 🔹 Backend Development (Node.js, Express, NestJS)
+- 🔹 Cloud Computing
+- 🔹 System Architecture
+- 🔹 Artificial Intelligence
+- 🔹 DevOps
+- 🔹 Building startups and innovative products
+
+---
+
+## 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoniomirandaquintas/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/antonio.mirand.5)
-[![Instagram](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.instagram.com/miranda_o_sobrevivente/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/miranda_o_sobrevivente/)
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=Mirand43&show_icons=true&theme=dracula&count_private=true)
+---
 
-## Tecnologias que eu uso no meu dia
+## 📈 GitHub Stats
 
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=61DAFB" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img align="center" alt="tailwind" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img align="center" alt="materialui" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
-  <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img align="center" alt="reactrouter" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-  <img align="center" alt="adobexd" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />
-  <img align="center" alt="adobephotoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
-  <img align="center" alt="figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  
-</div><br/>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mirand43&theme=dracula"/>
+</p>
 
-Apaixonado por tecnologia e por mudar a vida das pessoas através da inovação tecnológica.
+---
 
-### Projectos Desenvolvidos:
-- [ABOUT ME](https://blog-antonio-quintas.vercel.app/)<br/>
-- [GEODE](https://geode.ao/)<br/>
-- [JOGO DE MEMÓRIA](https://jogo-memoria-wine.vercel.app/)<br/>
-- [KULANDELA NGINGA](https://project-kulandela-nginga.vercel.app/)<br/>
-- [WTMLuanda](https://wtm-luanda.vercel.app/)<br/>
-- [DESAFIO EPICGAMES](https://desafio-epicgames-gray.vercel.app/leadpage/home)<br/>
-- [SBDE](https://sbde.tech/)<br/>
-- [CODANG](https://codang.co.ao/)<br/>
-- [INNOSPHERE](https://innosphere-alpha.vercel.app/)<br/>
-- [DELFIKITANDEIRA](https://delfikitandeira.vercel.app/)<br/>
+# 💻 Tech Stack
 
-### Contactos:
-- E-mail: antoniomq99@gmail.com
-- Whatsapp e tel: (+244) 926 243 958
+### Languages
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
+![PHP](https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=php)
+
+### Frontend
+
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-black?style=for-the-badge&logo=angular)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=for-the-badge&logo=tailwind-css)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express)
+![NestJS](https://img.shields.io/badge/-NestJS-black?style=for-the-badge&logo=nestjs)
+
+### Databases
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
+
+### Tools
+
+![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
+![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma)
+![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=for-the-badge&logo=adobephotoshop)
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🌍 ABOUT ME | Personal portfolio showcasing my work and experience. |
+| 🌍 GEODE | Corporate website. |
+| 🧠 Memory Game | React game focused on logic and interaction. |
+| 🌱 Kulandela Nginga | Sustainable tourism platform for Angola. |
+| 💻 CODANG | Technology company website. |
+| ☁️ INNOSPHERE | Cloud and Hosting platform. |
+| 🛒 Delfi Kitandeira | Price comparison platform for the informal market. |
+
+### 🔗 Live Projects
+
+- 🌐 https://blog-antonio-quintas.vercel.app/
+- 🌐 https://geode.ao/
+- 🌐 https://jogo-memoria-wine.vercel.app/
+- 🌐 https://project-kulandela-nginga.vercel.app/
+- 🌐 https://wtm-luanda.vercel.app/
+- 🌐 https://desafio-epicgames-gray.vercel.app/
+- 🌐 https://sbde.tech/
+- 🌐 https://codang.co.ao/
+- 🌐 https://innosphere-alpha.vercel.app/
+- 🌐 https://delfikitandeira.vercel.app/
+
+---
+
+# 🎯 Current Goals
+
+- ☁️ Master Cloud Computing
+- 🤖 Build AI-powered products
+- 🚀 Grow Innosphere
+- 🌍 Contribute to Open Source
+- 📚 Become a Software Architect
+
+---
+
+## 📫 Contact
+
+📧 **Email:** antoniomq99@gmail.com
+
+📱 **WhatsApp:** +244 926 243 958
+
+🇦🇴 Luanda, Angola
+
+---
+
+> *"Technology is only valuable when it changes people's lives."*
