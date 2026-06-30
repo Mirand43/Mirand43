@@ -1,117 +1,239 @@
-# Hi there 👋 I'm António Miranda Quintas
-
-### 🚀 Software Engineer | Backend Developer | Cloud Enthusiast
-
-I'm a software developer from **Angola 🇦🇴** passionate about building scalable applications, APIs and digital solutions that create real impact.
-
-Currently I'm focused on:
-
-- 🔹 Backend Development (Node.js, Express, NestJS)
-- 🔹 Cloud Computing
-- 🔹 System Architecture
-- 🔹 Artificial Intelligence
-- 🔹 DevOps
-- 🔹 Building startups and innovative products
-
----
-
-## 🌐 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoniomirandaquintas/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/antonio.mirand.5)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/miranda_o_sobrevivente/)
-
----
-
-## 📈 GitHub Stats
+<!-- ========================= HEADER ========================= -->
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mirand43&theme=dracula"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,100:2563EB&text=António%20Miranda%20Quintas&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20|%20Business%20Intelligence%20|%20Python%20Developer&descAlignY=60"/>
+</p>
+
+<h1 align="center">
+Hi 👋 I'm António Miranda Quintas
+</h1>
+
+<h3 align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Data+Analyst;Business+Intelligence+Enthusiast;Python+Developer;Power+BI+Developer;SQL+%7C+ETL+%7C+Dashboards;Turning+Data+Into+Business+Decisions"/>
+
+</h3>
+
+---
+
+# 👨🏻‍💻 About Me
+
+I'm a Software Engineer passionate about **Data Analytics**, **Business Intelligence**, and transforming raw data into valuable business insights.
+
+I enjoy building dashboards, automating processes, analyzing data, and creating solutions that help companies make smarter decisions.
+
+Currently focusing on:
+
+- 📊 Data Analytics
+- 📈 Business Intelligence
+- 🐍 Python
+- 🗄 SQL
+- 📉 Power BI
+- 📚 Data Visualization
+- 🤖 Automation
+- ☁ Cloud Technologies
+
+---
+
+# 🌎 Connect with me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/antoniomirandaquintas">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:antoniomq99@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://blog-antonio-quintas.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mirand43&show_icons=true&theme=tokyonight&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mirand43&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Mirand43&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📊 GitHub Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Mirand43&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Mirand43/Mirand43/output/github-contribution-grid-snake.svg"/>
+
 </p>
 
 ---
 
 # 💻 Tech Stack
 
-### Languages
+## Programming Languages
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript)
-![PHP](https://img.shields.io/badge/-PHP-black?style=for-the-badge&logo=php)
+<p>
 
-### Frontend
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,php"/>
 
-![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
-![Angular](https://img.shields.io/badge/-Angular-black?style=for-the-badge&logo=angular)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=for-the-badge&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=for-the-badge&logo=bootstrap)
+</p>
 
-### Backend
+## Data Analytics
 
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-black?style=for-the-badge&logo=express)
-![NestJS](https://img.shields.io/badge/-NestJS-black?style=for-the-badge&logo=nestjs)
+<p>
 
-### Databases
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=black"/>
 
-### Tools
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 
-![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
-![Figma](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=figma)
-![Photoshop](https://img.shields.io/badge/-Photoshop-black?style=for-the-badge&logo=adobephotoshop)
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+
+</p>
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs"/>
+
+</p>
+
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,bootstrap"/>
+
+</p>
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma"/>
+
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🌍 ABOUT ME | Personal portfolio showcasing my work and experience. |
-| 🌍 GEODE | Corporate website. |
-| 🧠 Memory Game | React game focused on logic and interaction. |
-| 🌱 Kulandela Nginga | Sustainable tourism platform for Angola. |
-| 💻 CODANG | Technology company website. |
-| ☁️ INNOSPHERE | Cloud and Hosting platform. |
-| 🛒 Delfi Kitandeira | Price comparison platform for the informal market. |
-
-### 🔗 Live Projects
-
-- 🌐 https://blog-antonio-quintas.vercel.app/
-- 🌐 https://geode.ao/
-- 🌐 https://jogo-memoria-wine.vercel.app/
-- 🌐 https://project-kulandela-nginga.vercel.app/
-- 🌐 https://wtm-luanda.vercel.app/
-- 🌐 https://desafio-epicgames-gray.vercel.app/
-- 🌐 https://sbde.tech/
-- 🌐 https://codang.co.ao/
-- 🌐 https://innosphere-alpha.vercel.app/
-- 🌐 https://delfikitandeira.vercel.app/
+| Project | Description | Technologies |
+|----------|-------------|--------------|
+| 🌍 Portfolio | Personal portfolio | Next.js |
+| 📊 GEODE | Corporate website | React |
+| 🌱 Kulandela Nginga | Sustainable Tourism Platform | Node.js + MongoDB |
+| 💻 CODANG | Technology Company Website | Next.js |
+| ☁ INNOSPHERE | Hosting Platform | Next.js |
+| 📈 Delfi Kitandeira | Price Comparison Platform | React |
 
 ---
 
-# 🎯 Current Goals
+# 📚 Currently Learning
 
-- ☁️ Master Cloud Computing
-- 🤖 Build AI-powered products
-- 🚀 Grow Innosphere
-- 🌍 Contribute to Open Source
-- 📚 Become a Software Architect
-
----
-
-## 📫 Contact
-
-📧 **Email:** antoniomq99@gmail.com
-
-📱 **WhatsApp:** +244 926 243 958
-
-🇦🇴 Luanda, Angola
+- Advanced SQL
+- Data Engineering
+- Machine Learning
+- Statistics
+- Apache Spark
+- Microsoft Fabric
+- Azure Data Services
 
 ---
 
-> *"Technology is only valuable when it changes people's lives."*
+# 🎯 2026 Goals
+
+✅ Google Data Analytics Professional Certificate
+
+✅ Microsoft Power BI Certification
+
+✅ Build 10 Data Analytics Projects
+
+✅ Contribute to Open Source
+
+✅ Master Python for Data Science
+
+✅ Learn Data Engineering
+
+---
+
+# 📈 Visitor Count
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Mirand43&style=for-the-badge&color=blue"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Mirand43&theme=tokyonight&no-frame=true&column=7"/>
+
+</p>
+
+---
+
+# 📫 Contact
+
+📍 Luanda, Angola
+
+📧 **Email**
+
+antoniomq99@gmail.com
+
+📱 **WhatsApp**
+
++244 926 243 958
+
+🌐 **Portfolio**
+
+https://blog-antonio-quintas.vercel.app
+
+---
+
+<h3 align="center">
+
+"Without data, you're just another person with an opinion."
+
+— W. Edwards Deming
+
+</h3>
+
+<p align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:2563EB,100:0F172A"/>
+
+</p>
